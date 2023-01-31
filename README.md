@@ -33,6 +33,10 @@
 
 ## Error
 
+- []()
+- [](https://www.rinae.dev/posts/how-to-handle-errors-1)
+- []()
+
 ## Conference
 
 - [\[A6\] Statecharts: 복잡한 UI 상태를 지배하는 방법](https://www.youtube.com/watch?v=Hv_PhrfwerQ) : ui 개발을 상태와 액션으로 바라보는 시각을 제시하는 발표, 유한상태머신
