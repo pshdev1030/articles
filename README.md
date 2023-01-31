@@ -5,7 +5,7 @@
 ## React
 
 - [React as a UI Runtime](https://overreacted.io/react-as-a-ui-runtime/) : 리액트의 프로그래밍 모델에 대한 설명, 베타독스의 내용과 조금 겹침!
-- [https://github.com/Wavez/react-hooks-lifecycle] : hooks의 라이프사이클
+- [react-hooks-lifecycle](https://github.com/Wavez/react-hooks-lifecycle) : hooks의 라이프사이클
 - [Making setInterval Declarative with React Hooks](https://overreacted.io/making-setinterval-declarative-with-react-hooks/) : 위의 hooks의 lifecycle에서 ref와 클로저를 활용하여 setInterval을 react lifecycle과 동기화하기
 - [A Complete Guide to useEffect](https://overreacted.io/a-complete-guide-to-useeffect/) : useEffect에 대한 아티클, 리액트의 렌더링을 스냅샷으로 바라볼 수 있도록 이해를 도움 !
 - [Avoiding useEffect with callback refs](https://tkdodo.eu/blog/avoiding-use-effect-with-callback-refs#interacting-with-refs) : callbackRef를 사용하여 useEffect를 사용하지 않고 DOM 노드의 렌더링 직후 effect를 실행하는 방법
