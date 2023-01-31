@@ -13,15 +13,17 @@
 - [React.memo() 현명하게 사용하기](https://ui.toast.com/weekly-pick/ko_20190731) : memo 현명하게 사용하기
 - [React hooks - useEffect: HTTP requests ](https://im-developer.tistory.com/211) : 리액트에서의 비동기 요청에서의 에러, promise의 상태, 데이터등을 하나의 데이터로 바라보아야 한다는 인사이트를 얻을 수 있다!
 - [\[번역\] React에 SOLID 원칙 적용하기](https://dev-boku.tistory.com/entry/%EB%B2%88%EC%97%AD-React%EC%97%90-SOLID-%EC%9B%90%EC%B9%99-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0) : 컴포넌트 설계시에 고려해야 할 점. 상속대신 합성을 주로 사용하는 리액트에 SOLID 원칙을 적용하는 아티클이다.
-- [더 나은 컴포넌트 설계하기](https://velog.io/@juno7803/%EB%8D%94-%EB%82%98%EC%9D%80-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8-%EC%84%A4%EA%B3%84%ED%95%98%EA%B8%B0#%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4) : 도메인 지식이나 
+- [더 나은 컴포넌트 설계하기](https://velog.io/@juno7803/%EB%8D%94-%EB%82%98%EC%9D%80-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8-%EC%84%A4%EA%B3%84%ED%95%98%EA%B8%B0#%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4) : 도메인 지식을 빼는 등 좀 더 제너럴한 컴포넌트를 설계하는 방법
 
 ## Javascript
 
 - [How JavaScript Timers Work](https://johnresig.com/blog/how-javascript-timers-work/) : Javascript setTimeout과 setInterval의 차이점
 - [Tasks, microtasks, queues and schedules](https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/) : 자바스크립트 이벤트루프와 마이크로 태스크 큐, 태스크 큐의 개념
-- [High Performance JavaScript by Nicholas C. Zakas](https://www.oreilly.com/library/view/high-performance-javascript/9781449382308/ch04.html) : 자바스크립트에서의 반복문들과 조건문들의 성능비교
+- [High Performance JavaScript by Nicholas C. Zakas](https://www.oreilly.com/library/view/high-performance-javascript/9781449382308/ch04.html) : 자바스크립트에서의 반복문들과 조건문들의 성능비교, Object literal을 쓰자!
 - [eventloop spec](https://html.spec.whatwg.org/multipage/webappapis.html#event-loops) : 이벤트루프 스펙
 - [Exploration of requestAnimationFrame execution mechanism](https://segmentfault.com/a/1190000040945949/en) : requestAnimationFrame의 동작원리
+- [인간 JS 엔진되기](https://youtube.com/playlist?list=PLcqDmjxt30Rt9wmSlw1u6sBYr-aZmpNB3) : 쉽게 알아보는 자바스크립트에서의 비동기(Promise,Async,Await ...)
+- [requestIdleCallback으로 최적화하기](https://yceffort.kr/2021/08/requestIdlecallback) : requestIdleFrame을 이용한 최적화, 브라우저가 idle 상태일 때 작업을 지시하는 방법과, 적절한 사용예시
 
 ## DesignSystem
 
@@ -33,16 +35,15 @@
 
 ## Error
 
-- []()
-- [](https://www.rinae.dev/posts/how-to-handle-errors-1)
-- []()
+- [에러 처리를 어떻게 하면 좋을까? - 2](https://www.rinae.dev/posts/how-to-handle-errors-2) : 커스텀 에러 클래스를 정의하거나, 에러 모나드를 만드는 등, 어플리케이션에서 에러를 정의하고 다루는 방법
+- [\[Track 1-2\] 유인동 - ES6+ 비동기 프로그래밍과 실전 에러 핸들링](https://www.youtube.com/watch?v=o9JnT4sneAQ) : try catch로 하는 예외처리의 한계와, 예외는 터뜨리고 실제 사용하는 쪽에서 핸들링하는게 바람직하다는 관점과 이런 관점에서 표현식의 이점과 함수형 프로그래밍의 장점에 대한 인사이트를 얻을 수 있음!
+-[Using Facebook's invariant vs if throw](https://stackoverflow.com/questions/39055159/using-facebooks-invariant-vs-if-throw) : 에러로부터 좀 더 견고한 소프트웨어를 만들기위한 facebook의 invariant 모듈, 선언형으로 예외처리를 한다는 이점과 개발환경에서만 에러를 throw하는 작은 모듈. 
 
 ## Conference
 
 - [\[A6\] Statecharts: 복잡한 UI 상태를 지배하는 방법](https://www.youtube.com/watch?v=Hv_PhrfwerQ) : ui 개발을 상태와 액션으로 바라보는 시각을 제시하는 발표, 유한상태머신
 - [\[Dev Dive_ Frontend Day\] 내 코드의 품질을 높여주는 Type-Driven Development](https://www.youtube.com/watch?v=M3pMCZqPvzI&t=841s) : 타입스크립트 컴파일러를 활용하여 안정적인 소프트웨어를 만드는 방법과 원칙
 - [\[A1\] 웹뷰에서 다크모드 상속받기: 일관성있는 사용자 경험을 위하여](https://www.youtube.com/watch?v=ElsZ-v4Ow08&t=1s) : 다크모드에서의 깜빡임을 제거하기 위한 설계 렌더링 블록과 헤더, 캐싱을 고려한 전략이 인상적임!
-- 
 
 
 ## accessibility
