@@ -25,6 +25,13 @@
 - [인간 JS 엔진되기](https://youtube.com/playlist?list=PLcqDmjxt30Rt9wmSlw1u6sBYr-aZmpNB3) : 쉽게 알아보는 자바스크립트에서의 비동기(Promise,Async,Await ...)
 - [requestIdleCallback으로 최적화하기](https://yceffort.kr/2021/08/requestIdlecallback) : requestIdleFrame을 이용한 최적화, 브라우저가 idle 상태일 때 작업을 지시하는 방법과, 적절한 사용예시
 
+## CSS
+
+[Defensive CSS](https://defensivecss.dev/) : 버그를 야기하지 않는 CSS 작성예시
+[flexbox로 만들 수 있는 10가지 레이아웃](https://d2.naver.com/helloworld/8540176) : CSS Flexbox를 활용한 10가지 레이아웃
+[Aspect Ratio Boxes](https://css-tricks.com/aspect-ratio-boxes/) : CSS를 활용하여 이미지나 비디오 비율 유지하기
+
+
 ## DesignSystem
 
 - [리메인 디자인시스템](https://www.remain.co.kr/page/designsystem/color-wraning.php) : ui개발자로서 알아두면 좋은 내용들!
