@@ -27,9 +27,9 @@
 
 ## CSS
 
-[Defensive CSS](https://defensivecss.dev/) : 버그를 야기하지 않는 CSS 작성예시
-[flexbox로 만들 수 있는 10가지 레이아웃](https://d2.naver.com/helloworld/8540176) : CSS Flexbox를 활용한 10가지 레이아웃
-[Aspect Ratio Boxes](https://css-tricks.com/aspect-ratio-boxes/) : CSS를 활용하여 이미지나 비디오 비율 유지하기
+- [Defensive CSS](https://defensivecss.dev/) : 버그를 야기하지 않는 CSS 작성예시
+- [flexbox로 만들 수 있는 10가지 레이아웃](https://d2.naver.com/helloworld/8540176) : CSS Flexbox를 활용한 10가지 레이아웃
+- [Aspect Ratio Boxes](https://css-tricks.com/aspect-ratio-boxes/) : CSS를 활용하여 이미지나 비디오 비율 유지하기
 
 
 ## DesignSystem
