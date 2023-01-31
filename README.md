@@ -9,7 +9,9 @@
 - [Making setInterval Declarative with React Hooks](https://overreacted.io/making-setinterval-declarative-with-react-hooks/) : 위의 hooks의 lifecycle에서 ref와 클로저를 활용하여 setInterval을 react lifecycle과 동기화하기
 - [A Complete Guide to useEffect](https://overreacted.io/a-complete-guide-to-useeffect/) : useEffect에 대한 아티클, 리액트의 렌더링을 스냅샷으로 바라볼 수 있도록 이해를 도움 !
 - [Avoiding useEffect with callback refs](https://tkdodo.eu/blog/avoiding-use-effect-with-callback-refs#interacting-with-refs) : callbackRef를 사용하여 useEffect를 사용하지 않고 DOM 노드의 렌더링 직후 effect를 실행하는 방법
-- []()
+- [참조 동일성을 위한 메모이제이션](https://yceffort.kr/2022/04/memo-for-referential-stability-in-react#%EC%99%9C-%EB%AA%A8%EB%93%A0-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%EB%A5%BC-memo-%ED%95%B4%EC%95%BC-%ED%95%98%EB%8A%94%EA%B0%80) : ref, useMemo, useCallback과 리액트에서의 메모이제이션
+- [React.memo() 현명하게 사용하기](https://ui.toast.com/weekly-pick/ko_20190731) : memo 현명하게 사용하기
+- [React hooks - useEffect: HTTP requests ](https://im-developer.tistory.com/211) : 리액트에서의 비동기 요청에서의 에러, promise의 상태, 데이터등을 하나의 데이터로 바라보아야 한다는 인사이트를 얻을 수 있다!
 
 ## DesignSystem
 
