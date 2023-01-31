@@ -12,6 +12,16 @@
 - [참조 동일성을 위한 메모이제이션](https://yceffort.kr/2022/04/memo-for-referential-stability-in-react#%EC%99%9C-%EB%AA%A8%EB%93%A0-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%EB%A5%BC-memo-%ED%95%B4%EC%95%BC-%ED%95%98%EB%8A%94%EA%B0%80) : ref, useMemo, useCallback과 리액트에서의 메모이제이션
 - [React.memo() 현명하게 사용하기](https://ui.toast.com/weekly-pick/ko_20190731) : memo 현명하게 사용하기
 - [React hooks - useEffect: HTTP requests ](https://im-developer.tistory.com/211) : 리액트에서의 비동기 요청에서의 에러, promise의 상태, 데이터등을 하나의 데이터로 바라보아야 한다는 인사이트를 얻을 수 있다!
+- [\[번역\] React에 SOLID 원칙 적용하기](https://dev-boku.tistory.com/entry/%EB%B2%88%EC%97%AD-React%EC%97%90-SOLID-%EC%9B%90%EC%B9%99-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0) : 컴포넌트 설계시에 고려해야 할 점. 상속대신 합성을 주로 사용하는 리액트에 SOLID 원칙을 적용하는 아티클이다.
+- [더 나은 컴포넌트 설계하기](https://velog.io/@juno7803/%EB%8D%94-%EB%82%98%EC%9D%80-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8-%EC%84%A4%EA%B3%84%ED%95%98%EA%B8%B0#%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4) : 도메인 지식이나 
+
+## Javascript
+
+- [How JavaScript Timers Work](https://johnresig.com/blog/how-javascript-timers-work/) : Javascript setTimeout과 setInterval의 차이점
+- [Tasks, microtasks, queues and schedules](https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/) : 자바스크립트 이벤트루프와 마이크로 태스크 큐, 태스크 큐의 개념
+- [High Performance JavaScript by Nicholas C. Zakas](https://www.oreilly.com/library/view/high-performance-javascript/9781449382308/ch04.html) : 자바스크립트에서의 반복문들과 조건문들의 성능비교
+- [eventloop spec](https://html.spec.whatwg.org/multipage/webappapis.html#event-loops) : 이벤트루프 스펙
+- [Exploration of requestAnimationFrame execution mechanism](https://segmentfault.com/a/1190000040945949/en) : requestAnimationFrame의 동작원리
 
 ## DesignSystem
 
