@@ -44,7 +44,7 @@
 
 - [에러 처리를 어떻게 하면 좋을까? - 2](https://www.rinae.dev/posts/how-to-handle-errors-2) : 커스텀 에러 클래스를 정의하거나, 에러 모나드를 만드는 등, 어플리케이션에서 에러를 정의하고 다루는 방법
 - [\[Track 1-2\] 유인동 - ES6+ 비동기 프로그래밍과 실전 에러 핸들링](https://www.youtube.com/watch?v=o9JnT4sneAQ) : try catch로 하는 예외처리의 한계와, 예외는 터뜨리고 실제 사용하는 쪽에서 핸들링하는게 바람직하다는 관점과 이런 관점에서 표현식의 이점과 함수형 프로그래밍의 장점에 대한 인사이트를 얻을 수 있음!
-- [Using Facebook's invariant vs if throw](https://stackoverflow.com/questions/39055159/using-facebooks-invariant-vs-if-throw) : 에러로부터 좀 더 견고한 소프트웨어를 만들기위한 facebook의 invariant 모듈, 선언형으로 예외처리를 한다는 이점과 개발환경에서만 에러를 throw하는 작은 모듈. 
+- [Using Facebook's invariant vs if throw](https://stackoverflow.com/questions/39055159/using-facebooks-invariant-vs-if-throw) : 에러로부터 좀 더 견고한 소프트웨어를 만들기위한 facebook의 invariant 모듈, 선언형으로 예외처리를 한다는 이점과 개발환경에서만 에러를 throw하는 모듈. 
 
 ## Conference
 
