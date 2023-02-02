@@ -53,5 +53,5 @@
 - [\[A1\] 웹뷰에서 다크모드 상속받기: 일관성있는 사용자 경험을 위하여](https://www.youtube.com/watch?v=ElsZ-v4Ow08&t=1s) : 다크모드에서의 깜빡임을 제거하기 위한 설계 렌더링 블록과 헤더, 캐싱을 고려한 전략이 인상적임!
 
 
-## accessibility
+## Accessibility
 - [레진 웹 접근성 가이드라인](https://github.com/lezhin/accessibility) : 웹 접근성에 대한 가이드라인
