@@ -56,3 +56,4 @@
 
 ## Accessibility
 - [레진 웹 접근성 가이드라인](https://github.com/lezhin/accessibility) : 웹 접근성에 대한 가이드라인
+- [레진 WAI-ARIA 가이드라인](https://github.com/lezhin/accessibility/tree/master/aria) : aria 가이드라인
