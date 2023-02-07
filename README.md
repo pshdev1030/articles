@@ -14,6 +14,7 @@
 - [React hooks - useEffect: HTTP requests ](https://im-developer.tistory.com/211) : 리액트에서의 비동기 요청에서의 에러, promise의 상태, 데이터등을 하나의 데이터로 바라보아야 한다는 인사이트를 얻을 수 있다!
 - [\[번역\] React에 SOLID 원칙 적용하기](https://dev-boku.tistory.com/entry/%EB%B2%88%EC%97%AD-React%EC%97%90-SOLID-%EC%9B%90%EC%B9%99-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0) : 컴포넌트 설계시에 고려해야 할 점. 상속대신 합성을 주로 사용하는 리액트에 SOLID 원칙을 적용하는 아티클이다.
 - [더 나은 컴포넌트 설계하기](https://velog.io/@juno7803/%EB%8D%94-%EB%82%98%EC%9D%80-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8-%EC%84%A4%EA%B3%84%ED%95%98%EA%B8%B0#%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4) : 도메인 지식을 빼는 등 좀 더 제너럴한 컴포넌트를 설계하는 방법
+- [Uploading Images to S3 from a React Single Page Application](https://medium.com/developing-koan/uploading-images-to-s3-from-a-react-single-page-application-45a4d24af09f) : spa에서 AWS S3 presignedURL를 이용하여 이미지 업로드하기
 
 ## Javascript
 
