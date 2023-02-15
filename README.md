@@ -59,3 +59,7 @@
 ## Accessibility
 - [레진 웹 접근성 가이드라인](https://github.com/lezhin/accessibility) : 웹 접근성에 대한 가이드라인
 - [레진 WAI-ARIA 가이드라인](https://github.com/lezhin/accessibility/tree/master/aria) : aria 가이드라인
+
+## etc
+- [Apple developer](https://developer.apple.com/documentation/technologies) : shell을 이용하여 mac의 os레벨에 접근해야 할 경우 참조할 수 있는 문서
+- [Launch the default app for a URI](https://learn.microsoft.com/en-us/windows/uwp/launch-resume/launch-default-app#standard-shell-related-uri-schemes) : shell을 이용하여 window의 os레벨에 접근해야 할 경우 참조할 수 있는 문서
