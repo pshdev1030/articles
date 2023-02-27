@@ -25,6 +25,7 @@
 - [Exploration of requestAnimationFrame execution mechanism](https://segmentfault.com/a/1190000040945949/en) : requestAnimationFrame의 동작원리
 - [인간 JS 엔진되기](https://youtube.com/playlist?list=PLcqDmjxt30Rt9wmSlw1u6sBYr-aZmpNB3) : 쉽게 알아보는 자바스크립트에서의 비동기(Promise,Async,Await ...)
 - [requestIdleCallback으로 최적화하기](https://yceffort.kr/2021/08/requestIdlecallback) : requestIdleFrame을 이용한 최적화, 브라우저가 idle 상태일 때 작업을 지시하는 방법과 적절한 사용예시
+- [JavaScript: HTML Form Validation](https://www.w3resource.com/javascript/form/javascript-form-validation.php) : HTML Form validation 가이드
 
 ## CSS
 
