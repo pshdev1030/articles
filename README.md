@@ -35,6 +35,12 @@
 - [The trick to viewport units on mobile](https://css-tricks.com/the-trick-to-viewport-units-on-mobile/) : 모바일 기기 100vh 대응하기
 - [반응형 웹 디자인 기초](https://web.dev/responsive-web-design-basics) : 모바일을 고려한 반응형 가이드
 
+## Browser
+- [CRP](https://developer.mozilla.org/en-US/docs/Web/Performance/Critical_rendering_path) : critical rendering path에 대하여
+- [Adding Interactivity with JavaScript](https://web.dev/critical-rendering-path-adding-interactivity-with-javascript/) : CRP에서 javascript가 동작하는 원리
+- [CSS 성능 향상 시키기](https://yceffort.kr/2021/03/improve-css-performance) : CRP에서 css와 stylesheet가 동작하는 원리
+- [https://yceffort.kr/2022/06/preload-scanner](https://yceffort.kr/2022/06/preload-scanner) : 프리로드 스캐너에 대하여
+
 
 ## DesignSystem
 
