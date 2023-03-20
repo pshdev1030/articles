@@ -26,6 +26,8 @@
 - [인간 JS 엔진되기](https://youtube.com/playlist?list=PLcqDmjxt30Rt9wmSlw1u6sBYr-aZmpNB3) : 쉽게 알아보는 자바스크립트에서의 비동기(Promise,Async,Await ...)
 - [requestIdleCallback으로 최적화하기](https://yceffort.kr/2021/08/requestIdlecallback) : requestIdleFrame을 이용한 최적화, 브라우저가 idle 상태일 때 작업을 지시하는 방법과 적절한 사용예시
 - [JavaScript: HTML Form Validation](https://www.w3resource.com/javascript/form/javascript-form-validation.php) : HTML Form validation 가이드
+- [JS .includes() vs .some()](https://d7k.medium.com/js-includes-vs-some-b3cd546a7bc3) : includes vs some includes는 === 연산자를 사용한다. 즉 includes는 object비교에서 무조건 false를 반환한다! object 비교를 위해선 some을 사용하기! 기타 값은 includes를 사용할 수 있다.
+- [요소 : auxclick 이벤트](https://runebook.dev/ko/docs/dom/element/auxclick_event) : 브라우저에서 오른쪽 클릭을 구현하는 방법, 오른쪽 클릭의 기본 동작과, context menu를 여는 동작을 막아서 커스텀할 수 있다.
 
 ## CSS
 
