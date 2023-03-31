@@ -73,3 +73,4 @@
 - [Apple developer](https://developer.apple.com/documentation/technologies) : shell을 이용하여 mac의 os레벨에 접근해야 할 경우 참조할 수 있는 문서
 - [Launch the default app for a URI](https://learn.microsoft.com/en-us/windows/uwp/launch-resume/launch-default-app#standard-shell-related-uri-schemes) : shell을 이용하여 window의 os레벨에 접근해야 할 경우 참조할 수 있는 문서
 - [The OAuth 2.0 Authorization Framework](https://datatracker.ietf.org/doc/html/rfc6749) : oauth 2.0
+- [아이덴티티 시스템의 7가지 원칙](https://blog.cometkim.kr/posts/the-seven-laws-of-identity/) : 사용자 및 인증정보 시스템이 지켜야할 7가지 규칙
