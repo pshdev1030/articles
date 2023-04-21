@@ -41,7 +41,7 @@
 - [CRP](https://developer.mozilla.org/en-US/docs/Web/Performance/Critical_rendering_path) : critical rendering path에 대하여
 - [Adding Interactivity with JavaScript](https://web.dev/critical-rendering-path-adding-interactivity-with-javascript/) : CRP에서 javascript가 동작하는 원리
 - [CSS 성능 향상 시키기](https://yceffort.kr/2021/03/improve-css-performance) : CRP에서 css와 stylesheet가 동작하는 원리
-- [https://yceffort.kr/2022/06/preload-scanner](https://yceffort.kr/2022/06/preload-scanner) : 프리로드 스캐너에 대하여
+- [브라우저의 프리로드 스캐너(pre-load scanner)와 파싱 동작의 이해](https://yceffort.kr/2022/06/preload-scanner) : 프리로드 스캐너에 대하여
 
 
 ## DesignSystem
