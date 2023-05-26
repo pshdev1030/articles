@@ -44,6 +44,7 @@
 - [Adding Interactivity with JavaScript](https://web.dev/critical-rendering-path-adding-interactivity-with-javascript/) : CRP에서 javascript가 동작하는 원리
 - [CSS 성능 향상 시키기](https://yceffort.kr/2021/03/improve-css-performance) : CRP에서 css와 stylesheet가 동작하는 원리
 - [브라우저의 프리로드 스캐너(pre-load scanner)와 파싱 동작의 이해](https://yceffort.kr/2022/06/preload-scanner) : 프리로드 스캐너에 대하여
+- [웹 폰트를 로컬 스토리지에 저장하는 기법 – 캐시 안정성 증가, 글꼴 깜빡임 현상 제거](https://mytory.net/archives/13189) : 웹폰트의 개념과 최적화에 대한 아티클
 
 
 ## DesignSystem
