@@ -17,6 +17,7 @@
 - [더 나은 컴포넌트 설계하기](https://velog.io/@juno7803/%EB%8D%94-%EB%82%98%EC%9D%80-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8-%EC%84%A4%EA%B3%84%ED%95%98%EA%B8%B0#%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4) : 도메인 지식을 빼는 등 좀 더 제너럴한 컴포넌트를 설계하는 방법
 - [Uploading Images to S3 from a React Single Page Application](https://medium.com/developing-koan/uploading-images-to-s3-from-a-react-single-page-application-45a4d24af09f) : spa에서 AWS S3 presignedURL를 이용하여 이미지 업로드하기
 - [React의 Error Boundary를 이용하여 효과적으로 에러 처리하기](https://fe-developers.kakaoent.com/2022/221110-error-boundary/) : 카카오의 ErrorBoundary 사용전략
+- [react-error-boundary](https://www.npmjs.com/package/react-error-boundary) : react-error-boundary를 확장한 여러 기능을 제공한다( hook등 )
 
 ## Javascript
 
