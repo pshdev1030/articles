@@ -19,6 +19,7 @@
 - [React의 Error Boundary를 이용하여 효과적으로 에러 처리하기](https://fe-developers.kakaoent.com/2022/221110-error-boundary/) : 카카오의 ErrorBoundary 사용전략
 - [react-error-boundary](https://www.npmjs.com/package/react-error-boundary) : react-error-boundary를 확장한 여러 기능을 제공한다( hook등 )
 - [How To Avoid Prop Drilling in React Using Component Composition](https://javascript.plainenglish.io/how-to-avoid-prop-drilling-in-react-using-component-composition-c42adfcdde1b) : 컴포넌트 합성을 사용해 prop drilling을 피하는 법
+- [동시성을 구현하는 기술](https://deview.kr/data/deview/session/attach/1_Inside%20React%20(%E1%84%83%E1%85%A9%E1%86%BC%E1%84%89%E1%85%B5%E1%84%89%E1%85%A5%E1%86%BC%E1%84%8B%E1%85%B3%E1%86%AF%20%E1%84%80%E1%85%AE%E1%84%92%E1%85%A7%E1%86%AB%E1%84%92%E1%85%A1%E1%84%82%E1%85%B3%E1%86%AB%20%E1%84%80%E1%85%B5%E1%84%89%E1%85%AE%E1%86%AF).pdf) : react팀이 나아갈 방향인 동시성 렌더링에 대한 개념
 
 ## Javascript
 
