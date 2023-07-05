@@ -18,6 +18,7 @@
 - [Uploading Images to S3 from a React Single Page Application](https://medium.com/developing-koan/uploading-images-to-s3-from-a-react-single-page-application-45a4d24af09f) : spa에서 AWS S3 presignedURL를 이용하여 이미지 업로드하기
 - [React의 Error Boundary를 이용하여 효과적으로 에러 처리하기](https://fe-developers.kakaoent.com/2022/221110-error-boundary/) : 카카오의 ErrorBoundary 사용전략
 - [react-error-boundary](https://www.npmjs.com/package/react-error-boundary) : react-error-boundary를 확장한 여러 기능을 제공한다( hook등 )
+- [How To Avoid Prop Drilling in React Using Component Composition](https://javascript.plainenglish.io/how-to-avoid-prop-drilling-in-react-using-component-composition-c42adfcdde1b) : 컴포넌트 합성을 사용해 prop drilling을 피하는 법
 
 ## Javascript
 
