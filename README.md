@@ -22,7 +22,6 @@
 - [동시성을 구현하는 기술](https://deview.kr/data/deview/session/attach/1_Inside%20React%20(%E1%84%83%E1%85%A9%E1%86%BC%E1%84%89%E1%85%B5%E1%84%89%E1%85%A5%E1%86%BC%E1%84%8B%E1%85%B3%E1%86%AF%20%E1%84%80%E1%85%AE%E1%84%92%E1%85%A7%E1%86%AB%E1%84%92%E1%85%A1%E1%84%82%E1%85%B3%E1%86%AB%20%E1%84%80%E1%85%B5%E1%84%89%E1%85%AE%E1%86%AF).pdf) : react팀이 나아갈 방향인 동시성 렌더링에 대한 개념
 - [useLayoutEffect-ssr](https://gist.github.com/gaearon/e7d97cdf38a2907924ea12e4ebdf3c85) : 서버사이드 렌더링과 useLayoutEffect, useEffect!
 
-
 ## Javascript
 
 - [How JavaScript Timers Work](https://johnresig.com/blog/how-javascript-timers-work/) : Javascript setTimeout과 setInterval의 차이점
