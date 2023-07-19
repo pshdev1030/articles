@@ -82,3 +82,5 @@
 - [Launch the default app for a URI](https://learn.microsoft.com/en-us/windows/uwp/launch-resume/launch-default-app#standard-shell-related-uri-schemes) : shell을 이용하여 window의 os레벨에 접근해야 할 경우 참조할 수 있는 문서
 - [The OAuth 2.0 Authorization Framework](https://datatracker.ietf.org/doc/html/rfc6749) : oauth 2.0
 - [아이덴티티 시스템의 7가지 원칙](https://blog.cometkim.kr/posts/the-seven-laws-of-identity/) : 사용자 및 인증정보 시스템이 지켜야할 7가지 규칙
+- [당근마켓에 웹 프로젝트 배포하기 #1 — 파일 기반 웹뷰](https://medium.com/daangn/%EB%8B%B9%EA%B7%BC%EB%A7%88%EC%BC%93%EC%97%90-%EC%9B%B9-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0-1-%ED%8C%8C%EC%9D%BC-%EA%B8%B0%EB%B0%98-%EC%9B%B9%EB%B7%B0-d312b17e697c) : 웹으로 네이티브와 같은 경험을 만들기 위한 설계와 노력
+- [당근마켓에 웹 프로젝트 배포하기 #2 — 웹 서버로 돌아가기](https://medium.com/daangn/%EB%8B%B9%EA%B7%BC%EB%A7%88%EC%BC%93%EC%97%90-%EC%9B%B9-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0-2-%EC%9B%B9-%EC%84%9C%EB%B2%84%EB%A1%9C-%EB%8F%8C%EC%95%84%EA%B0%80%EA%B8%B0-3030daea456c) : 웹으로 네이티브와 같은 경험을 만들기 위한 설계와 노력
