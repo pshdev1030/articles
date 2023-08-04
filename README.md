@@ -84,3 +84,4 @@
 - [아이덴티티 시스템의 7가지 원칙](https://blog.cometkim.kr/posts/the-seven-laws-of-identity/) : 사용자 및 인증정보 시스템이 지켜야할 7가지 규칙
 - [당근마켓에 웹 프로젝트 배포하기 #1 — 파일 기반 웹뷰](https://medium.com/daangn/%EB%8B%B9%EA%B7%BC%EB%A7%88%EC%BC%93%EC%97%90-%EC%9B%B9-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0-1-%ED%8C%8C%EC%9D%BC-%EA%B8%B0%EB%B0%98-%EC%9B%B9%EB%B7%B0-d312b17e697c) : 웹으로 네이티브와 같은 경험을 만들기 위한 설계와 노력
 - [당근마켓에 웹 프로젝트 배포하기 #2 — 웹 서버로 돌아가기](https://medium.com/daangn/%EB%8B%B9%EA%B7%BC%EB%A7%88%EC%BC%93%EC%97%90-%EC%9B%B9-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0-2-%EC%9B%B9-%EC%84%9C%EB%B2%84%EB%A1%9C-%EB%8F%8C%EC%95%84%EA%B0%80%EA%B8%B0-3030daea456c) : 웹으로 네이티브와 같은 경험을 만들기 위한 설계와 노력
+- [Date는 어떻게 주고 받는게 바람직할까요?](https://blog.hoseung.me/2023-03-23-how-to-transfer-date) : 타임존을 고려해야 한다!
