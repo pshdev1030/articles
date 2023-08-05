@@ -63,7 +63,6 @@
 ## Error
 
 - [에러 처리를 어떻게 하면 좋을까? - 2](https://www.rinae.dev/posts/how-to-handle-errors-2) : 커스텀 에러 클래스를 정의하거나, 에러 모나드를 만드는 등, 어플리케이션에서 에러를 정의하고 다루는 방법
-- [\[Track 1-2\] 유인동 - ES6+ 비동기 프로그래밍과 실전 에러 핸들링](https://www.youtube.com/watch?v=o9JnT4sneAQ) : try catch로 하는 예외처리의 한계와, 예외는 터뜨리고 실제 사용하는 쪽에서 핸들링하는게 바람직하다는 관점과 이런 관점에서 표현식의 이점과 함수형 프로그래밍의 장점에 대한 인사이트를 얻을 수 있음!
 - [Using Facebook's invariant vs if throw](https://stackoverflow.com/questions/39055159/using-facebooks-invariant-vs-if-throw) : 에러로부터 좀 더 견고한 소프트웨어를 만들기위한 facebook의 invariant 모듈, 선언형으로 예외처리를 한다는 이점과 개발환경에서만 에러를 throw하는 모듈. 
 
 ## Conference
@@ -71,11 +70,16 @@
 - [\[A6\] Statecharts: 복잡한 UI 상태를 지배하는 방법](https://www.youtube.com/watch?v=Hv_PhrfwerQ) : ui 개발을 상태와 액션으로 바라보는 시각을 제시하는 발표, 유한상태머신
 - [\[Dev Dive_ Frontend Day\] 내 코드의 품질을 높여주는 Type-Driven Development](https://www.youtube.com/watch?v=M3pMCZqPvzI&t=841s) : 타입스크립트 컴파일러를 활용하여 안정적인 소프트웨어를 만드는 방법과 원칙
 - [\[A1\] 웹뷰에서 다크모드 상속받기: 일관성있는 사용자 경험을 위하여](https://www.youtube.com/watch?v=ElsZ-v4Ow08&t=1s) : 다크모드에서의 깜빡임을 제거하기 위한 설계 렌더링 블록과 헤더, 캐싱을 고려한 전략이 인상적임!
-
+- [FECONF 2022 \[B4\] 내 import 문이 그렇게 이상했나요?](https://www.youtube.com/watch?v=mee1QbvaO10) : cjs와 esm모듈!
+- [토스ㅣSLASH 21 - 프론트엔드 웹 서비스에서 우아하게 비동기 처리하기](https://www.youtube.com/watch?v=FvRtoViujGg) : 선언형 프로그래밍으로 비동기 처리하기, suspense for data fetching + error boundary
+- [\[B3\] 우리는 응집도에 대하여 이야기할 필요가 있다](https://www.youtube.com/watch?v=aSAGOH2u2rs) : 응집도와 결합도를 고려한 컴포넌트 만들기, 구체적인 usecase도 언급되어있다. 꾸준히 노력하며 보완해야 할 부분!
+- [토스ㅣSLASH 22 - Effective Component 지속 가능한 성장과 컴포넌트](https://www.youtube.com/watch?v=fR8tsJ2r7Eg) : 컴포넌트를 모듈의 관점에서 바라보기! 위의 발표와 많은 연관이 있다.
+- [\[Track 1-2\] 유인동 - ES6+ 비동기 프로그래밍과 실전 에러 핸들링](https://www.youtube.com/watch?v=o9JnT4sneAQ) : try catch로 하는 예외처리의 한계와, 예외는 터뜨리고 실제 사용하는 쪽에서 핸들링하는게 바람직하다는 관점과 이런 관점에서 표현식의 이점과 함수형 프로그래밍의 장점에 대한 인사이트를 얻을 수 있음! 정말정말 유익한 영상이다.
 
 ## Accessibility
 - [레진 웹 접근성 가이드라인](https://github.com/lezhin/accessibility) : 웹 접근성에 대한 가이드라인
 - [레진 WAI-ARIA 가이드라인](https://github.com/lezhin/accessibility/tree/master/aria) : aria 가이드라인
+- [ARIA Authoring Practices Guide (APG)](https://www.w3.org/WAI/ARIA/apg/patterns/) : w3c에서 제작한 aria을 고려한 컴포넌트 제작 패턴 내지 가이드라인
 
 ## etc
 - [Apple developer](https://developer.apple.com/documentation/technologies) : shell을 이용하여 mac의 os레벨에 접근해야 할 경우 참조할 수 있는 문서
@@ -85,3 +89,4 @@
 - [당근마켓에 웹 프로젝트 배포하기 #1 — 파일 기반 웹뷰](https://medium.com/daangn/%EB%8B%B9%EA%B7%BC%EB%A7%88%EC%BC%93%EC%97%90-%EC%9B%B9-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0-1-%ED%8C%8C%EC%9D%BC-%EA%B8%B0%EB%B0%98-%EC%9B%B9%EB%B7%B0-d312b17e697c) : 웹으로 네이티브와 같은 경험을 만들기 위한 설계와 노력
 - [당근마켓에 웹 프로젝트 배포하기 #2 — 웹 서버로 돌아가기](https://medium.com/daangn/%EB%8B%B9%EA%B7%BC%EB%A7%88%EC%BC%93%EC%97%90-%EC%9B%B9-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0-2-%EC%9B%B9-%EC%84%9C%EB%B2%84%EB%A1%9C-%EB%8F%8C%EC%95%84%EA%B0%80%EA%B8%B0-3030daea456c) : 웹으로 네이티브와 같은 경험을 만들기 위한 설계와 노력
 - [Date는 어떻게 주고 받는게 바람직할까요?](https://blog.hoseung.me/2023-03-23-how-to-transfer-date) : 타임존을 고려해야 한다!
+- [바텀업과 탑다운이 뭔가요](https://iori826.tistory.com/505) : 탑다운과 바텀업 사고흐름에 대해서 생각하기
