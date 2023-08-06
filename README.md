@@ -75,6 +75,7 @@
 - [\[B3\] 우리는 응집도에 대하여 이야기할 필요가 있다](https://www.youtube.com/watch?v=aSAGOH2u2rs) : 응집도와 결합도를 고려한 컴포넌트 만들기, 구체적인 usecase도 언급되어있다. 꾸준히 노력하며 보완해야 할 부분!
 - [토스ㅣSLASH 22 - Effective Component 지속 가능한 성장과 컴포넌트](https://www.youtube.com/watch?v=fR8tsJ2r7Eg) : 컴포넌트를 모듈의 관점에서 바라보기! 위의 발표와 많은 연관이 있다.
 - [\[Track 1-2\] 유인동 - ES6+ 비동기 프로그래밍과 실전 에러 핸들링](https://www.youtube.com/watch?v=o9JnT4sneAQ) : try catch로 하는 예외처리의 한계와, 예외는 터뜨리고 실제 사용하는 쪽에서 핸들링하는게 바람직하다는 관점과 이런 관점에서 표현식의 이점과 함수형 프로그래밍의 장점에 대한 인사이트를 얻을 수 있음! 정말정말 유익한 영상이다.
+- [\[April 2020\] Epilogue & Session 3. 타입스크립트에게 내 의도를 이해시키는 방법 - 김혜성 님](https://www.youtube.com/watch?v=bfSKqscC8kc) : 이거 하나면 타스는 끝인듯
 
 ## Accessibility
 - [레진 웹 접근성 가이드라인](https://github.com/lezhin/accessibility) : 웹 접근성에 대한 가이드라인
