@@ -44,6 +44,7 @@
 - [The trick to viewport units on mobile](https://css-tricks.com/the-trick-to-viewport-units-on-mobile/) : 모바일 기기 100vh 대응하기
 - [css-reset in chakra-ui](https://github.com/chakra-ui/chakra-ui/blob/main/packages/components/css-reset/src/css-reset.tsx) : vh에 대한 폴리필로 모바일기기 100vh 대응하기
 - [반응형 웹 디자인 기초](https://web.dev/responsive-web-design-basics) : 모바일을 고려한 반응형 가이드
+- [코드스피츠 css rendering](https://www.edwith.org/codespitz-css-rendering) : 코드스피츠 css 강좌
 
 ## Browser
 - [CRP](https://developer.mozilla.org/en-US/docs/Web/Performance/Critical_rendering_path) : critical rendering path에 대하여
